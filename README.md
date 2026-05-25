@@ -1,5 +1,5 @@
 # Automated-Data-Cleaning-Pipeline
-MY 1st step cleaning real hospital data
+1st step data cleaning real-world healthcare dataset
 ## Overview
 
 This demonstrates an automated data cleaning and preprocessing pipeline using a real-world healthcare dataset from Kaggle.
